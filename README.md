@@ -14,7 +14,10 @@
 - python_speech_features 
 - Numpy
 
+
 #
+atten_layer.py is not written by me. It is taken from someone's github project. (Will cite a project a soon as i find the project link)
+
 For understanding attention model in speech emotion recognition you can see
 
 [Automatic Speech Emotion Recognition Using Recurrent Neural Networks with Local Attention](https://www.youtube.com/watch?v=NItzgTQ9lvw)

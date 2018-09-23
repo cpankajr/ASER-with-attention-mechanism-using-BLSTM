@@ -4,6 +4,8 @@
 
 **Note: This model does not perform well enough as of now, I am still working on it**
 
+[**_EmoDB database_**](https://drive.google.com/open?id=1zugRF4UfJQjfZqzE-zZjJN5_lyx2Ax9o)
+
 # Libraries used
 
 - Keras

@@ -93,6 +93,9 @@ if __name__ == '__main__':
 	print("Weights Saved Successfully...")
 	model.save('cnn_lstm_model.h5')
 	print("Model Saved Successfully...")
+	
+	# Following code is for testing purpose
+	
 	# f = open('C:/Users/cpank/Desktop/emodb_test.pkl', 'rb')
  #    test_data,test_label,em_test_label = cPickle.load(f)
 	# # y_test_label = np_utils.to_categorical(test_label, 7)

@@ -4,6 +4,11 @@
 
 **Note: This model does not perform well enough as of now, I am still working on it**
 
+For understanding attention model in speech emotion recognition you can see
+
+[Automatic Speech Emotion Recognition Using Recurrent Neural Networks with Local Attention](https://www.youtube.com/watch?v=NItzgTQ9lvw)
+
+
 [**_emodb.pkl_**](https://drive.google.com/open?id=1DmmMtHPZUcA16tYGWjFId0wgnxgj2cvh)
 
 [**_emodb_test.pkl_**](https://drive.google.com/open?id=1XHea79-2uBFSkl5-wEYpqTE_N8ZoiaxB)

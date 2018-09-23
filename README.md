@@ -1,6 +1,6 @@
 # ASER-with-attention-mechanism-using-BLSTM
 
- audio -> log mel spectrogram (like RGB image, it will have 3 layers , static spectrogram, its delta nd double delta respectively)-> 2D CNN layers -> BLSTM layers-> Attention layer -> Fully Connected Layer -> Softmax Layer -> Emotion Probability Distributions
+ audio -> log mel spectrogram (unlike traditional spectrogram , it will have 3 layers like RGB image , static spectrogram, its delta nd double delta respectively)-> 2D CNN layers -> BLSTM layers-> Attention layer -> Fully Connected Layer -> Softmax Layer -> Emotion Probability Distributions
 
 **Note: This model does not perform well enough as of now, I am still working on it**
 

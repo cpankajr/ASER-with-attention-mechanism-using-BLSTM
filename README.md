@@ -4,6 +4,15 @@
 
 **Note: This model does not perform well enough as of now, I am still working on it**
 
+# Libraries used
+
+- Keras
+- Tensorflow (not necessarily required)
+- librosa
+- python_speech_features 
+- Numpy
+
+#
 For understanding attention model in speech emotion recognition you can see
 
 [Automatic Speech Emotion Recognition Using Recurrent Neural Networks with Local Attention](https://www.youtube.com/watch?v=NItzgTQ9lvw)

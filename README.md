@@ -2,7 +2,7 @@
 
  audio -> log mel spectrogram (unlike traditional spectrogram , it will have 3 layers like RGB image , static spectrogram, its delta nd double delta respectively)-> 2D CNN layers -> BLSTM layers-> Attention layer -> Fully Connected Layer -> Softmax Layer -> Emotion Probability Distributions
 
-**Note: This model does not perform well enough as of now, I am still working on it**
+**Note: It is very much starting version of Project. There will be further modification in algo and code in future. This model does not perform well enough as of now, I am still working on it**
 
 [**_EmoDB database_**](https://drive.google.com/open?id=1zugRF4UfJQjfZqzE-zZjJN5_lyx2Ax9o)
 
